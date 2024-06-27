@@ -30,7 +30,7 @@
     gap: 10px;
     border-radius: 5px;
     border: 3px solid #FFFBF5;
-    /* background: #BFD8AF; */
+    background: #CDF5FD;
 }
 
 input{
@@ -50,4 +50,5 @@ button{
     border: none;
     outline: none;
     margin: 5px;
+    background: #E6FF94;
 }
