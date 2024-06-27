@@ -22,8 +22,6 @@
 
 
 .box{
-    display: flex;
-    flex-direction: column;
     width: 40%;
     margin: auto;
     border: 2px solid yellow;
@@ -34,5 +32,19 @@
 }
 
 input{
-    
+    width: 70%;
+    padding: 1vw;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    margin: 5px;
+}
+
+button{
+    width: 30%;
+    padding: 1vw;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin: 5px;
 }
