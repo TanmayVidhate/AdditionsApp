@@ -11,6 +11,28 @@
 
 .container{
     width: 100%;
-    height: 100%;
+    height: 100vh;
     border: 5px solid red;
+    text-align: center;
+    padding: 1vh;
+    display: flex;
+    background-color: #E1F0DA;
+
+}
+
+
+.box{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: auto;
+    border: 2px solid yellow;
+    padding: 2vw;
+    gap: 10px;
+    border-radius: 5px;
+    background: #BFD8AF;
+}
+
+input{
+    
 }
