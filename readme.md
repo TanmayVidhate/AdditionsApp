@@ -6,4 +6,4 @@ ADD button is call the javascript functions.In function perform the additions of
 
 ---
 
-![output](./image.png)
+![output](./Image/image.png)
